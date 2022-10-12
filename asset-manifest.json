@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://senthilguts.github.io/csb-7myox9/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://senthilguts.github.io/csb-7myox9/static/js/main.0863e2f9.chunk.js",
+    "main.js.map": "https://senthilguts.github.io/csb-7myox9/static/js/main.0863e2f9.chunk.js.map",
+    "runtime-main.js": "https://senthilguts.github.io/csb-7myox9/static/js/runtime-main.3588d813.js",
+    "runtime-main.js.map": "https://senthilguts.github.io/csb-7myox9/static/js/runtime-main.3588d813.js.map",
+    "static/js/2.33f0bf01.chunk.js": "https://senthilguts.github.io/csb-7myox9/static/js/2.33f0bf01.chunk.js",
+    "static/js/2.33f0bf01.chunk.js.map": "https://senthilguts.github.io/csb-7myox9/static/js/2.33f0bf01.chunk.js.map",
+    "index.html": "https://senthilguts.github.io/csb-7myox9/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://senthilguts.github.io/csb-7myox9/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.33f0bf01.chunk.js.LICENSE.txt": "https://senthilguts.github.io/csb-7myox9/static/js/2.33f0bf01.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3588d813.js",
+    "static/js/2.33f0bf01.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.0863e2f9.chunk.js"
+  ]
+}
